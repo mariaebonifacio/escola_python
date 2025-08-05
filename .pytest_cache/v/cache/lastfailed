@@ -1,0 +1,4 @@
+{
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada4-7.5]": true,
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada6-7.0]": true
+}

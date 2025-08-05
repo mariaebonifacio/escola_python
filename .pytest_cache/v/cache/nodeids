@@ -1,0 +1,12 @@
+[
+  "tests/test_calcular_media_basico.py::test_calcular_media_entrada_basica_sem_erro",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada0-0]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada1-10]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada2-7.0]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada3-6.4]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada4-7.5]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada4-7.6]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada5-0.3]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada6-6.0]",
+  "tests/test_calcular_media_com_parametro.py::test_calcular_media_calculos_basicos_parametrizados[entrada6-7.0]"
+]
